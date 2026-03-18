@@ -1,0 +1,5 @@
+{
+  "name": "Stock Transfer Receiver",
+  "description": "A prototype for receiving stock transfers with item details and status tracking.",
+  "requestFramePermissions": []
+}
